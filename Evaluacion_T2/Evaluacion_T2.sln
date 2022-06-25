@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Romero_Ejercicio01", "Ejercicio01\Romero_Ejercicio01.csproj", "{56F81760-4491-4269-A714-3CF53B7B486D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Romero_Ejercicio02", "Ejercicio02\Romero_Ejercicio02.csproj", "{45C93262-3D16-4118-B4C2-9FE3104E4235}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56F81760-4491-4269-A714-3CF53B7B486D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56F81760-4491-4269-A714-3CF53B7B486D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56F81760-4491-4269-A714-3CF53B7B486D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56F81760-4491-4269-A714-3CF53B7B486D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45C93262-3D16-4118-B4C2-9FE3104E4235}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45C93262-3D16-4118-B4C2-9FE3104E4235}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45C93262-3D16-4118-B4C2-9FE3104E4235}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45C93262-3D16-4118-B4C2-9FE3104E4235}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0E913C9-5538-4F23-BCE4-86047852B89C}
+	EndGlobalSection
+EndGlobal

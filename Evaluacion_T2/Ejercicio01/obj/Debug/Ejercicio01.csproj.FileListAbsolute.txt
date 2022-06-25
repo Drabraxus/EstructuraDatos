@@ -1,0 +1,11 @@
+D:\Johan Romero\UPN\2022-1\ESTRUCTURA DE DATOS - 2055\Evaluaciones\02 Evaluaciones Calificadas\T2\Fuente_T2\Evaluacion_T2\Ejercicio01\bin\Debug\Ejercicio01.exe.config
+D:\Johan Romero\UPN\2022-1\ESTRUCTURA DE DATOS - 2055\Evaluaciones\02 Evaluaciones Calificadas\T2\Fuente_T2\Evaluacion_T2\Ejercicio01\bin\Debug\Ejercicio01.exe
+D:\Johan Romero\UPN\2022-1\ESTRUCTURA DE DATOS - 2055\Evaluaciones\02 Evaluaciones Calificadas\T2\Fuente_T2\Evaluacion_T2\Ejercicio01\bin\Debug\Ejercicio01.pdb
+D:\Johan Romero\UPN\2022-1\ESTRUCTURA DE DATOS - 2055\Evaluaciones\02 Evaluaciones Calificadas\T2\Fuente_T2\Evaluacion_T2\Ejercicio01\obj\Debug\Ejercicio01.csproj.AssemblyReference.cache
+D:\Johan Romero\UPN\2022-1\ESTRUCTURA DE DATOS - 2055\Evaluaciones\02 Evaluaciones Calificadas\T2\Fuente_T2\Evaluacion_T2\Ejercicio01\obj\Debug\Ejercicio01.csproj.SuggestedBindingRedirects.cache
+D:\Johan Romero\UPN\2022-1\ESTRUCTURA DE DATOS - 2055\Evaluaciones\02 Evaluaciones Calificadas\T2\Fuente_T2\Evaluacion_T2\Ejercicio01\obj\Debug\Ejercicio01.Form1.resources
+D:\Johan Romero\UPN\2022-1\ESTRUCTURA DE DATOS - 2055\Evaluaciones\02 Evaluaciones Calificadas\T2\Fuente_T2\Evaluacion_T2\Ejercicio01\obj\Debug\Ejercicio01.Properties.Resources.resources
+D:\Johan Romero\UPN\2022-1\ESTRUCTURA DE DATOS - 2055\Evaluaciones\02 Evaluaciones Calificadas\T2\Fuente_T2\Evaluacion_T2\Ejercicio01\obj\Debug\Ejercicio01.csproj.GenerateResource.cache
+D:\Johan Romero\UPN\2022-1\ESTRUCTURA DE DATOS - 2055\Evaluaciones\02 Evaluaciones Calificadas\T2\Fuente_T2\Evaluacion_T2\Ejercicio01\obj\Debug\Ejercicio01.csproj.CoreCompileInputs.cache
+D:\Johan Romero\UPN\2022-1\ESTRUCTURA DE DATOS - 2055\Evaluaciones\02 Evaluaciones Calificadas\T2\Fuente_T2\Evaluacion_T2\Ejercicio01\obj\Debug\Ejercicio01.exe
+D:\Johan Romero\UPN\2022-1\ESTRUCTURA DE DATOS - 2055\Evaluaciones\02 Evaluaciones Calificadas\T2\Fuente_T2\Evaluacion_T2\Ejercicio01\obj\Debug\Ejercicio01.pdb
